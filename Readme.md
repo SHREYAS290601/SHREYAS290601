@@ -1,3 +1,4 @@
+![Shreyas Kulkarni](https://github.com/SHREYAS290601/SHREYAS290601/blob/master/githubpage.jpg)
 <h1 align="center">Hi 👋, I'm Shreyas Kulkarni</h1>
 <h3 align="center">A Student looking for a career in Data Analytics from India</h3>
 
